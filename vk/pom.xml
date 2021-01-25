@@ -3,7 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Test</groupId>
-  <artifactId>vk</artifactId>
+ <!-- <artifactId>vk</artifactId> -->
+  <artifactId>TestGitProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
