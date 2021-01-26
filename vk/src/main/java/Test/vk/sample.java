@@ -23,8 +23,7 @@ WebDriver driver;
 	Thread.sleep(5000);
 	
 		driver.findElement(By.name("username")).sendKeys("batchautomation");
-	
-		driver.findElement(By.name("password")).sendKeys("Test@12345");
+	    driver.findElement(By.name("password")).sendKeys("Test@12345");
 		driver.findElement(By.xpath("//*[@id=\"loginForm\"]/div/div/input")).click();
 	}
 
