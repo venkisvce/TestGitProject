@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Test</groupId>
-  <artifactId>vk</artifactId>
+  <artifactId>vksample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -76,14 +76,6 @@
     <version>2.41.2</version>
 </dependency>
 
-  
-  
-  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api -->
-<!--<dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-api</artifactId>
-    <version>3.141.59</version>
-</dependency>  -->
 
 </dependencies>
   
