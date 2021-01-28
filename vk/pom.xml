@@ -38,7 +38,7 @@
           <version>3.0.0-M5</version>
           <configuration>
           <suiteXmlFiles>
-        <!--  <suiteXmlFile>C:\Users\Venkat\eclipse-workspace\MavenQA\src\test\java\MavenSample\MavenQA\testng.xml</suiteXmlFile>-->
+          <suiteXmlFile>C:\Users\Venkat\git\TestGitProject\vk\src\main\java\Test\vk\venkyqa.xml</suiteXmlFile>
          <!--     <suiteXmlFile>C:\Users\Venkat\eclipse-workspace\FirstTest\src\test\java\mavenPack\FirstTest\test.xml</suiteXmlFile>-->
           </suiteXmlFiles>
         </configuration>
