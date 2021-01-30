@@ -20,7 +20,7 @@ WebDriver driver;
 //	 WebDriver driver = new InternetExplorerDriver();
 	 driver.manage().window().maximize();
 	 driver.get(" https://classic.crmpro.com");
-	Thread.sleep(5000);
+	Thread.sleep(10000);
 	
 		driver.findElement(By.name("username")).sendKeys("batchautomation");
 	    driver.findElement(By.name("password")).sendKeys("Test@12345");
